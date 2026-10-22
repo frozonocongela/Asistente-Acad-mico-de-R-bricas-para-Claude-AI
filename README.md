@@ -7,9 +7,7 @@ Este proyecto contiene una **skill** (conjunto de instrucciones estructuradas) d
 Facilitar la revisión automática y estructurada de trabajos escolares, ayudando a los estudiantes a identificar requisitos faltantes, corregir errores de formato o contenido y asegurar el cumplimiento total de los criterios de evaluación establecidos.
 
 ## Autor
-* **Nombre:** [Tu Nombre Completo]
-* **Materia:** [Nombre de tu materia o asignatura]
-* **Institución:** [Nombre de tu institución educativa]
+* **Nombre:** Matías Retamozo
 
 ## Estado del Proyecto
 * **Estado actual:** En desarrollo (Versión v1.0)
